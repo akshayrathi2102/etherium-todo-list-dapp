@@ -5,3 +5,4 @@ It is built using truffle framework. Smart contract is written using Solidity an
 It interacts with blockchain using metamask extension for browsers.
 
 This dapp allows users create tasks, and mark them completed or not completed.
+This app is made by following the tutorial of dappuniversity.
